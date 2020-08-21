@@ -1,4 +1,4 @@
-var microBitBle;
+
 var bh1750;
 var readEnable;
 var microBitBle;
